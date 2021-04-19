@@ -1,1 +1,12 @@
 /* write your override styles here */
+
+#wall .tag-1 { 
+    /* display: none; */
+    background: url(https://cdn.mos.cms.futurecdn.net/KG7kYHyteTset4EW6MqxV.jpg)  no-repeat;
+    background-repeat: repeat-x;
+    background-size: 300px 100px;
+    background-position: center;
+    background-color:rgba(255, 0, 0, 0.5);
+    border-style: double;
+    border-width: 50px;
+}
